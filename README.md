@@ -1,2 +1,2 @@
 # Yield
-sample
+Earn Passive Rewards
